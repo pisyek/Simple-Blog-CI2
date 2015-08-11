@@ -38,8 +38,14 @@
 |
 */
 
-$route['default_controller'] = "welcome";
+$route['default_controller'] = "blog";
 $route['404_override'] = '';
+
+$route['about'] = 'blog/about';
+$route['add-new-entry'] = 'blog/add_new_entry';
+$route['add-new-category'] = 'blog/add_new_category';
+$route['category/(:any)'] = "blog/category/$1";
+$route['post/(:num)'] = 'blog/post/$1';
 
 
 /* End of file routes.php */
