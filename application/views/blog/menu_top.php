@@ -11,10 +11,10 @@
 			<ul>
 				<li <?php echo ( isset($current) && $current === 'HOME' ) ? 'id="current"' : ''?>><a href="<?php echo base_url();?>">Home</a></li>
 				<li <?php echo ( isset($current) && $current === 'ABOUT' ) ? 'id="current"' : ''?>><a href="<?php echo base_url();?>about">About</a></li>
-				<li><a href="http://blog.pisyek.com/2011/03/create-a-simple-blog-using-codeigniter-2-0-part-1/" target="_blank" rel="follow">Tutorial Part 1</a></li>
-				<li><a href="http://blog.pisyek.com/2011/05/create-a-simple-blog-using-codeigniter-2-0-part-2/" target="_blank" rel="follow">Tutorial Part 2</a></li>
-				<li><a href="http://blog.pisyek.com/2012/02/create-a-simple-blog-using-codeigniter-2-0-part-3/" target="_blank" rel="follow">Tutorial Part 3</a></li>
-				<li><a href="http://www.pisyek.com" target="_blank" rel="follow">Contact Me</a></li>	
+				<li><a href="http://blog.pisyek.com/create-a-simple-blog-using-codeigniter-2-part-1/" target="_blank" rel="follow">Tutorial Part 1</a></li>
+				<li><a href="http://blog.pisyek.com/create-a-simple-blog-using-codeigniter-2-part-2/" target="_blank" rel="follow">Tutorial Part 2</a></li>
+				<li><a href="http://blog.pisyek.com/create-a-simple-blog-using-codeigniter-2-part-1/" target="_blank" rel="follow">Tutorial Part 3</a></li>
+				<li><a href="http://pisyek.com/contact" target="_blank" rel="follow">Contact Me</a></li>	
 			</ul>		
 		</div>
 		
