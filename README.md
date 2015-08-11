@@ -2,7 +2,9 @@
 
 This is a simple blog script using CodeIgniter 2.2.3 and Ion Auth.
 
-##How to use this repo
+##How to install
+
+These are simple steps for you to start using the script.
 
 1. Clone the repo
 2. Create a database
@@ -10,6 +12,8 @@ This is a simple blog script using CodeIgniter 2.2.3 and Ion Auth.
 4. Import blog_ci.sql into your db.
 5. The default admin login is *admin@admin.com* using *password*
 6. If you have queries/feedback, do not hesitate to [contact me](http://pisyek.com/contact).
+
+##Tutorials
 
 You may refer to my blog for detail tutorials:
 
