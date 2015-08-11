@@ -10,7 +10,7 @@ These are simple steps for you to start using the script.
 2. Create a database
 3. Update your database config in application/config/database.php
 4. Import blog_ci.sql into your db.
-5. The default admin login is *admin@admin.com* using *password*
+5. The default admin login is **admin@admin.com** using **password**
 6. If you have queries/feedback, do not hesitate to [contact me](http://pisyek.com/contact).
 
 ##Tutorials
