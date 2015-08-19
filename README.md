@@ -2,7 +2,7 @@
 
 This is a simple blog script using CodeIgniter 2.2.3 and Ion Auth.
 
-![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg "Show license badge") ![Release](https://img.shields.io/badge/release-v1.0-red.svg "Show release badge")
+![Release](https://img.shields.io/badge/status-stable-brightgreen.svg "Status badge") ![Release](https://img.shields.io/badge/release-v1.0-orange.svg "Release badge") ![License](https://img.shields.io/badge/license-GPLv3-blue.svg "License badge")
 
 ##How to install
 
