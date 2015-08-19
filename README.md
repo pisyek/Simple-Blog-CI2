@@ -2,7 +2,7 @@
 
 This is a simple blog script using CodeIgniter 2.2.3 and Ion Auth.
 
-[![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)]
+![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)
 
 ##How to install
 
