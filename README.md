@@ -2,6 +2,8 @@
 
 This is a simple blog script using CodeIgniter 2.2.3 and Ion Auth.
 
+[GitHub version][img-version-badge]][badge-version]
+
 ##How to install
 
 These are simple steps for you to start using the script.
